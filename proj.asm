@@ -36,7 +36,7 @@ STATE DB ?                                  ; tracking of which display state
   
   KBINPUT1  DB ?, '$'
 
-  TERMINATE_STR DB ' T H A N K  Y O U  F O R  P L A Y I N G ! ! ! $'
+  TERMINATE_STR DB ' T H A N K  Y O U  F O R  P L A Y I N G ! ! !  $'
   EXIT_STR DB 10, 13, 10, 13, 'PRESS ESC TO EXIT ', 10, 13, '$'
 
   MAXLEN DW 30
