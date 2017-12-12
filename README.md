@@ -21,10 +21,10 @@ Play State
     Proceed with the selected option
                 [ENTER]
                 
-           Hit [H]  [S] Stand 
+          Hit [H]     [S] Stand 
            
-    Exit the program after a round
-                [ESC]          
+      Exit the program after a round
+                 [ESC]          
 ```
 
 
