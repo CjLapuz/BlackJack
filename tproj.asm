@@ -1,7 +1,4 @@
-  ; missing: does not check if the cards chosen were already picked (although gamay ra kaayo chance LUL)
-
-
-  TITLE BLACJACK (SIMPLFIED .EXE FORMAT)
+TITLE BLACJACK (SIMPLFIED .EXE FORMAT)
   .MODEL SMALL
   .386P
   ;---------------------------------------------
@@ -628,7 +625,7 @@ HIDDEN_CARD8 DB " ~~~~~~~~~ ", 10, 13, '$'
     QUIT2 DB 'Q$'
     TERMINATE_STR DB 'T H A N K  Y O U  F O R  P L A Y I N G ! ! ! $'
     EXIT_STR DB 10, 13, 10, 13, "PRESS ESC TO EXIT, PRESS *down arrow key* TO TRY AGAIN", '$'
-    INSTRUCTIONS DB "Press 'h' to hit. Press any other keys to stand$"
+    INSTRUCTIONS DB "Press 'h' to hit. Press 's' to stand$"
 
     MAXLEN DW 30
     MONEY_INIT DW 90
