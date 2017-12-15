@@ -2,7 +2,9 @@
 
 
 ### Changelog (as of 12/12/17 :: 23:42 (UTC + 8))
-* Display fixes
+* Gameplay mechanics change
+* Highscore and Score tracking
+* Try Again feature 
 
 ### Player Controls
 
@@ -18,9 +20,6 @@ Navigate Left [←]  [→] Navigate Right
 
 Play State
 ```
-    Proceed with the selected option
-                [ENTER]
-                
           Hit [H]     [S] Stand 
            
       Exit the program after a round
