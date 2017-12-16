@@ -1149,7 +1149,7 @@ DISPLAY_ERROR3:
   ;------------------------------------------------------------
  _CLEAR_SCREEN PROC NEAR
       MOV   AX, 0600H
-      MOV   BH, 07H                 ; default dosbox colors
+      MOV   BH, 02H                 ; default dosbox colors
       MOV   CX, 0000H               ; from index (0,0)
       MOV   DX, 184FH               ; to index (24, 79)
       INT   10H
@@ -1158,7 +1158,7 @@ DISPLAY_ERROR3:
    ;------------------------------------------------------------
   CUSTOM_CLEAR_SCREEN PROC NEAR ;edit cx, dx point values
   MOV   AX, 0600H
-  MOV   BH, 07H
+  MOV   BH, 02H
   INT   10H
   RET
   CUSTOM_CLEAR_SCREEN ENDP
@@ -1238,20 +1238,6 @@ DISPLAY_ERROR3:
 
   E_HIT:
   CALL GIVE_CARD ;CALL GIVE_CARD THEN CHECK IF BLACKJACK
-
-;print player cardval
-;  MOV DL, 0
-;  MOV DH, 0
-;  CALL _SET_CURSOR
-;  LEA DX, PLAYER_CARDVAL
-;  CALL DISPLAY_STR
-
-;print ai card val
-;  MOV DL, 0
-;  MOV DH, 2
-;  CALL _SET_CURSOR
-;  LEA DX, SCOREHOLDER
-;  CALL DISPLAY_STR
 
   CMP SCOREHOLDER, 21
   JG WIN
