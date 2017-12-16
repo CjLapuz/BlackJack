@@ -1,8 +1,8 @@
 # Blackjack
 
 
-### Changelog (as of 12/16/17 :: 09:07 (UTC + 8))
-* How to play update
+### Changelog (as of 12/16/17 :: 11:23 (UTC + 8))
+* Changed game aesthetics 
 
 ### Player Controls
 
