@@ -1,10 +1,8 @@
 # Blackjack
 
 
-### Changelog (as of 12/12/17 :: 23:42 (UTC + 8))
-* Gameplay mechanics change
-* Highscore and Score tracking
-* Try Again feature 
+### Changelog (as of 12/16/17 :: 09:07 (UTC + 8))
+* How to play update
 
 ### Player Controls
 
