@@ -7,18 +7,18 @@
 ° | '--'H|| '--'O|| '--'W|  | '--'T|| '--'O| | '--'P|| '--'L|| '--'A|| '--'Y| °
 ° `------'`------'`------'  `------'`------' `------'`------'`------'`------' °
 °~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~°
-°  GO HERE:                                                                   °
+°  CONTROLS:                                                                  °
+°     PRESS 'H' TO HIT      (PLAYER WILL BE GIVEN A RANDOM CARD)              °
+°     PRESS 'S' TO STAND    (PLAYER STOPS GETTING CARDS, SAVE POINTS)         °
 °                                                                             °
-°       http://www.bicyclecards.com/how-to-play/blackjack/                    °
+°  MECHANICS:                                                                 °
+°     BLACKJACK IS A GAME WHERE PLAYERS TRY TO HAVE THE HIGHEST POINTS        °
+°     WITHOUT THEM GOING OVER 21. AN ACE HAS A VALUE OF 11, NUMBERED CARDS    °
+°     VALUE CORRESPONDS TO THEIR NUMBER, AND JACK AND HIGHER ALL HAVE A VALUE °
+°     OF 10.     							      °
+°                                                                             °
+°          !GOING OVER 21 IS AN AUTOMATIC LOSS, SO HIT AT YOUR OWN RISK!      °
 °                                                                             °
 °                                                                             °
-°                                                                             °
-°  PRESS ANY KEY TO RETURN TO MENU                                            °
-°                                                                             °
-°                                                                             °
-°                                                                             °
-°                                                                             °
-°                                                                             °
-°                                                                             °
-°                                                                             °
+°                      *PRESS ANY KEY TO RETURN TO MENU*                      °
 @°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°@
